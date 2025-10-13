@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xyzTransports>
+    <transport1>
+        <name make="Volvo" model="7900 Hybrid">bus</name>
+        <functionality>
+            <isAccesible>True</isAccesible>
+            <isEco>True</isEco>
+        </functionality>
+        <price currency= "PLN">5</price>
+    </transport1>
+    <transport2>
+        <name make="Merida" model="Raven">bike</name>
+        <functionality>
+            <isFast>True</isFast>
+            <isECO>True</isECO>
+        </functionality>
+        <price currency= "PLN">0</price>
+    </transport2>
+    <transport3>
+        <name make="Skoda" model="Kodiaq">car</name>
+        <functionality>
+            <isAccesible>False</isAccesible>
+            <isECO>False</isECO>
+        </functionality>
+        <price currency= "PLN">250 000</price>
+    </transport3>
+</xyzTransports>

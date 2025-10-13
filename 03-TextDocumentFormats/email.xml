@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <Nadawca>
+        <imie>Jan Kowalski</imie>
+        <adres>jankowalski@gmail.com</adres>
+    </Nadawca>
+    <Odbiorca>
+        <imie>Sean McKinney</imie>
+        <adresemail>mckinneysean91@gmail.com</adresemail>
+    </Odbiorca>
+    <Wiadomosc>
+        <tytul>Spotkanie</tytul>
+        <tresc>Czesc Jan, chce przypomniec o spotkaniu w piatek o 10</tresc>
+    </Wiadomosc>
+</email>
+            
+       

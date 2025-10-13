@@ -53,5 +53,38 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Gucci",
+        "founded": 1921,
+        "headquarters": "Florence, Italy",
+        "employees": 20000,
+        "products": [
+            "Luxurious Wear",
+            "Accessories",
+            "Outerwear"
+        ]
+    },
+    {
+        "name": "The North Face",
+        "founded": 1940,
+        "headquarters": "Denver, USA",
+        "employees": 350000,
+        "products": [
+            "Climbing Gear",
+            "Casual Wear",
+            "Sports Wear"
+        ]
+    },
+    {
+        "name": "Salewa",
+        "founded": 1954,
+        "headquarters": "Heimat, Germany",
+        "employees": 150000,
+        "products": [
+            "Climbing Gear",
+            "Foot Wear",
+            "Casual Wear"
+        ]
     }
 ]

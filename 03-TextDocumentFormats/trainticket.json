@@ -1,0 +1,16 @@
+[
+    {
+        "departurePoint":"Krakow",
+        "destination":"Kielce",
+        "isDelayed":false,
+        "terminalofDeparture": 5,
+        "terminalofDestination": 2,
+        "Services": [
+            "Restaurant",
+            "Toilet",
+            "Free Wifi",
+            "Quiet Zone"
+        ],
+        "areSeatsComfy":true
+    }
+]
